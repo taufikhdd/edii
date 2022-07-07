@@ -6,7 +6,7 @@
             </a>
         </li>
         <li class="nav-item theme-text">
-            <a href="{{ url('/') }}" class="nav-link"> SIGISA PROV. JAMBI </a>
+            <a href="{{ url('/') }}" class="nav-link"> PT. EDII </a>
         </li>
     </ul>
     <ul class="navbar-item flex-row ml-md-auto">

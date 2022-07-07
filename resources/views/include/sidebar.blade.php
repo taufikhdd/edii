@@ -31,13 +31,13 @@
             </li>
         @endrole
 
-        <li class="menu-title">{{ __('Laporan') }}</li>
+        <li class="menu-title">{{ __('Biodata') }}</li>
 
         {{-- <li class="menu">
             <a href="{{ route('laporans.index') }}" aria-expanded="false" class="dropdown-toggle">
                 <div class="">
                     <i class="las la-chart-pie"></i>
-                    <span> {{ __('Laporan Harian') }}</span>
+                    <span> {{ __('Biodata Harian') }}</span>
                 </div>
             </a>
         </li> --}}

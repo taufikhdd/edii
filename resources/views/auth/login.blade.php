@@ -78,13 +78,15 @@
                                     </div>
                                     {{ __('Login') }}
                                 </button>
-
-                                <a class="btn-login ml-3 mr-3" href="{{ route('register') }}">
-                                    <div class="ripple-ripple js-ripple">
-                                        <span class="ripple-ripple__circle"></span>
-                                    </div>
-                                    {{ __('Register') }}</a>
                             </div>
+                            <br>
+                            <center>
+                            <a class="ripple-button ripple-button-primary w-100 btn-register href="{{ route('register') }}">
+                                <div class="ripple-ripple js-ripple">
+                                    <span class="ripple-ripple__circle"></span>
+                                </div>
+                                {{ __('Register') }}</a>
+                            </center>
                         </form>
                     </div>
                 </div>

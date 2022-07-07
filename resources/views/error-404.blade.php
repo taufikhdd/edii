@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
-    <title> | SIGISA Prov. Jambi | </title>
+    <title> | PT. EDII | </title>
     <link rel="icon" type="image/x-icon" href="{{ asset('assets/img/favicon.ico') }}" />
     <!-- Common Styles Starts -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap"
@@ -34,7 +34,7 @@
                     style="width: 100px; margin-top:20px">
             </a>
             <a class="navbar-brand" href="{{ url('/') }}" class="nav-link"
-                style="margin-left: 20px; margin-top:20px"> SIGISA PROV. JAMBI </a>
+                style="margin-left: 20px; margin-top:20px"> PT. EDII </a>
             <div class="error-left-content">
                 <p class="font-25 mb-5 text-white">Data tidak ditemukan. Silahkan cek kembali pilihan anda. </p>
                 <p class="font-18 text-white"></p>
