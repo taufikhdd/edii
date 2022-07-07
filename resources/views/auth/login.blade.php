@@ -15,16 +15,17 @@
                         <div class="left-content-area">
                             <img src="{{ url('assets/img/logo.png') }}" class="logo" />
                             <div>
-                                <h1 style="color: white">EDII</h1>
-                                <h2>Sistem Informasi Terintegrasi Adminduk</h2>
-                                <p style="color: white">Dinas Sosial Kependudukan dan Catatan Sipil Provinsi Jambi</p>
+                                <h1 style="color: black">EDII</h1>
+                                <br><br><br>
+                                <h2 style="color: black">Aplikasi Biodata Pelamar</h2>
+                                <p style="color: black">PT. Electronic Data Interface Indonesia</p>
 
                             </div>
                             <div class="d-flex align-items-center mt-4">
-                                <a class="font-13 text-white mr-3">{{ __('Find us: ') }}</a>
-                                <a class="font-13 text-white mr-3" href="javascript:void(0)">Facebook</a>
-                                <a class="font-13 text-white mr-3" href="javascript:void(0)">Twitter</a>
-                                <a class="font-13 text-white mr-3" href="javascript:void(0)">Instagram</a>
+                                <a class="font-13 text-black mr-3">{{ __('Find us: ') }}</a>
+                                <a class="font-13 text-black mr-3" href="javascript:void(0)">Facebook</a>
+                                <a class="font-13 text-black mr-3" href="javascript:void(0)">Twitter</a>
+                                <a class="font-13 text-black mr-3" href="javascript:void(0)">Instagram</a>
                             </div>
                         </div>
                     </div>
